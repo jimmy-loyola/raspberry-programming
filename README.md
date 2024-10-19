@@ -1,10 +1,12 @@
-# Programming Raspberry Pi 4 Model B from scratch
+# Programming Raspberry Pi 4 Model B from scratch  
+
+The intent of this repo is just to explore bare-metal and operating system software development.
 
 ## Hardware specifications
 
 **Processor:**  
     **Broadcom BCM2711**, quad-core **Cortex-A72 (ARM v8) 64-bit** SoC @ 1.5GHz  
-*Memory:**  
+**Memory:**  
     1GB, 2GB or 4GB LPDDR4    (depending on model)  
 **Connectivity:**  
     2.4 GHz and 5.0 GHz IEEE 802.11b/g/n/ac wireless LAN, Bluetooth 5.0, BLE    Gigabit Ethernet    2 × USB 3.0 ports    2 × USB 2.0 ports.  
@@ -20,7 +22,7 @@
 
 ## Manuals
 
-All useful information are in the docs folder
+All necessary information are in the docs folder
 - Broadcom BCM2711 datasheet
 - Raspberry Pi Model B datasheet
-- Arm Cortex-A72 64bit datasheet
+- Arm Cortex-A72 64 bit datasheet
